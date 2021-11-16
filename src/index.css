@@ -1,0 +1,12 @@
+body {
+    background-image: url("../assets/puppies.jpeg");
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    color: antiquewhite;
+}
+
+.js-image {
+    width: 200px;
+    height: 200px;
+}
